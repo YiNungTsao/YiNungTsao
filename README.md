@@ -1,5 +1,6 @@
-### Hi there 👋
-
+### Hi, My name is Yi-Nung, Tsao 👋
+🔭 I’m currently working on AUO
+📫 How to reach me: yinungtsao.mg08@nycu.edu.tw
 <!--
 **YiNungTsao/YiNungTsao** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
