@@ -1,5 +1,5 @@
 ### Hi, My name is Yi-Nung, Tsao 👋
-🔭 I’m interesting at mathematical modeling, combinatorial optimization, scheduling
+🔭 I’m interested in mathematical modeling, combinatorial optimization, scheduling
 <br> 📫 How to reach me: yinungtsao.mg08@nycu.edu.tw </br>
 <!--
 **YiNungTsao/YiNungTsao** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
